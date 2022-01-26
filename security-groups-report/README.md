@@ -21,12 +21,12 @@ export AWS_SESSION_TOKEN="XXXXXXXXX"
 ```
 ### Install
 1. Clone this repo
-2. ```pip install .```
+2. ```pip install -r requirements.txt```
 
 ### Getting Started
 
 
-1. Run the tool ```security-groups-report```
+1. Run the tool ```python``` or ```python3 security-groups-report/security_group_report/main.py```
 2. Wait
 3. Review the generated excel file
 ## Security
